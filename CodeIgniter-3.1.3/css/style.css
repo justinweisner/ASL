@@ -1,25 +1,70 @@
-@charset "UTF-8";
+/*
+PAGE SETTINGS
+*/
 
-body{
-	width: 90%;
-	margin: auto;
+a:link{
+	color: blue;
 }
 
+a:visited{
+	color: blue;
+}
 
-img {
+a:hover{
+	color: red;
+}
+
+a:active{
+	color: blue;
+}
+
+/*HEADER*/
+
+.header{
+	font-size: .7em;
+	color: white;
+}
+
+/*HOME PAGE*/
+.home_container, #biography{
+	background-image: url(../images/heaven.jpg);
+	background-repeat: repeat;
+	background-position: center;
+}
+
+.header{
+	background-image: url(../images/header-Memorial.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#nick_home_image{
 	float: left;
 	width: 20%;
 	padding-left: 20%;
+	margin-right: 3%;
+}
+
+#candle{
+	width: 20%;
+	padding-left: 40%;
+	padding-bottom: 2%;
 }
 
 #eulogy{
-	width: 50%;
-	padding-left: 30%;
-	margin-left: 15%;
+	width: 96%
 }
 
-.footer{
-	clear:both;
-	padding: 10px 0 0 0;
+#footer{
+	clear: both;
+	padding-top: 2%;
 }
 
+/*
+ABOUT PAGE
+*/
+
+#biography{
+	padding-left: 14%;
+	padding-top: 2%;
+}
