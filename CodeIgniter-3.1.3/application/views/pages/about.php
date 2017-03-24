@@ -1,8 +1,8 @@
 		<div class="about_container">
 		
-		<?php echo img(array('src' => 'images/candle.gif', 'alt' => 'Animated Candle', 'id' => 'candle')); ?><p>
-		
 			<div id="biography">
+			<?php echo img(array('src' => 'images/candle.gif', 'alt' => 'Animated Candle', 'id' => 'candle')); ?><p>
+			<p id="1st_para">
 				Nicholas Weisner was born to Brian and Sandra Weisner on 12 September 1986. He had one brother named Justin and they lived in East Hartford, Connecticut from 1986 until 1994 when they moved to Stafford Springs. Nick, as he was affectionaly known by family and friends, was a nice and outgoing kid who had no problems in making friends and was adored by his teachers and other adults who met him. While in East Hartford, Nick played Tee Ball with the town sponsered baseball program that also included regular baseball. As a child, Nick enjoyed Teenage Mutant Ninja Turtles and He-Man.
 				<p>
 				After moving to Stafford Springs, Nick would start school in the 3rd grade at West Stafford School, continue through the 4th & 5th grades at Earl M. Witt Intermediate School, go on to Stafford Middle School for 6th, 7th, & 8th before finishing at Stafford High School when he graduated from high school in June of 2004. Some of the sports activities that Nick participated in while in Stafford included Tae Kwon Do from 1995 - 1997 where he earned his rank as a blue belt, Stafford Youth Basketball in 1995, and he played high school football during his freshmen year. When Nick was 10, he was introduced to one of his favorite past times when he started listening to Heavy Metal music. Nick would also make friends with kids that would be his life long friends that were still friends up until his death. 

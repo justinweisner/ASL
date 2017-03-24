@@ -4,7 +4,7 @@
 	} );
 	</script>
    	
-   	<?php echo img(array('src' => 'images/candle.gif', 'alt' => 'Animated Candle', 'id' => 'candle')); ?>
+   	<?php echo img(array('src' => 'images/candle.gif', 'alt' => 'Animated Candle', 'id' => 'image_candle')); ?>
    	
    	<div id="gallery">
     	<!--FOLDER 1-->

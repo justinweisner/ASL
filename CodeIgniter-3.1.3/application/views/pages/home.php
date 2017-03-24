@@ -2,7 +2,7 @@
 		
 		<div class="home_container">
 		
-		<?php echo img(array('src' => 'images/candle.gif', 'alt' => 'Animated Candle', 'id' => 'candle')); ?>
+		<?php echo img(array('src' => 'images/candle.gif', 'alt' => 'Animated Candle', 'id' => 'home_candle')); ?>
 			
 		<p>
 		

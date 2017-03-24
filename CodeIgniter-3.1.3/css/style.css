@@ -2,12 +2,21 @@
 PAGE SETTINGS
 */
 
+body{
+	background-image: url(../images/flag.jpg);
+	/*-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o- transform: rotate(90deg);
+	transform: rotate(90deg);*/
+}
+
 a:link{
-	color: blue;
+	color: #F8F8FF;
 }
 
 a:visited{
-	color: blue;
+	color: #F8F8FF;
 }
 
 a:hover{
@@ -15,7 +24,7 @@ a:hover{
 }
 
 a:active{
-	color: blue;
+	color: #F8F8FF;
 }
 
 /*HEADER*/
@@ -30,34 +39,42 @@ a:active{
 	background-image: url(../images/heaven.jpg);
 	background-repeat: repeat;
 	background-position: center;
+	position: relative;
+	width: 70%;
+	margin-left: 15%;
 }
 
 .header{
 	background-image: url(../images/header-Memorial.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
+	width: 100%;
+	
 }
 
 #nick_home_image{
 	float: left;
 	width: 20%;
-	padding-left: 20%;
+	padding-left: 9%;
 	margin-right: 3%;
 }
 
-#candle{
+#home_candle, #candle{
 	width: 20%;
 	padding-left: 40%;
 	padding-bottom: 2%;
 }
 
+
+
 #eulogy{
 	width: 96%
 }
 
-#footer{
+#footer, em{
 	clear: both;
 	padding-top: 2%;
+	color: #ffffff;
 }
 
 /*
@@ -65,6 +82,37 @@ ABOUT PAGE
 */
 
 #biography{
-	padding-left: 14%;
+	padding: 0% 5%;
+	height: 800px;
+	margin-left: 10%;
+	background-repeat: no-repeat;
+}
+
+.about_container{
+	width: 70%;
+	margin: 0 auto;
+}
+
+#about_candle, #image_candle{
+	width: 20%;
+	padding-left: 40%;
+	padding-bottom: 2%;
+	margin-top: 5%;
+}
+
+#bio{
 	padding-top: 2%;
+}
+
+/*
+IMAGE PAGE
+*/
+
+#image_candle{
+	margin-top: 0;
+}
+
+#guest_greeting{
+	color: #F8F8FF;
+	padding-top: 10%;
 }

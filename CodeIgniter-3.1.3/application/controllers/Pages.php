@@ -20,6 +20,7 @@ class Pages extends CI_Controller {
 	
 	//Load Libraries
 	$this->load->library('javascript');
+	$this->load->database('Guestbook');
 	
 	}
 }
