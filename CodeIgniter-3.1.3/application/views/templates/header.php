@@ -9,11 +9,9 @@
 		<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css" rel="stylesheet" type="text/css" />
 		<!--Jquery styles & scripts-->
 		<link rel="stylesheet" type="text/css" media="all" href="<?php echo base_url().'css/jgallery.min.css?v=1.6.1' ?>" />
-		<!--Bootstrap-->
 		<!--JAVASCRIPT-->
 		<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.0.min.js"></script>
 		<script type="text/javascript" src="<?php echo base_url(); ?>js/jgallery.min.js"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 	</head>
 	
 	<body>
